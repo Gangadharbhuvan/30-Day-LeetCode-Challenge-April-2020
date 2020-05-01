@@ -16,7 +16,6 @@ Note:
 
 1 <= preorder.length <= 100
 The values of preorder are distinct.
-
 '''
 
 # Definition for a binary tree node.

@@ -19,6 +19,7 @@ Note: The length of path between two nodes is represented by the number of edges
 #         self.left = None
 #         self.right = None
 
+
 class Solution:
     def diameterOfBinaryTree(self, root: TreeNode) -> int:
         

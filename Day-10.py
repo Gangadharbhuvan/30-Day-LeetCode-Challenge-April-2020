@@ -43,6 +43,7 @@ class MinStack:
     def top(self) -> int:
         return self.__a[-1][0]
 
+   
     def getMin(self) -> int:
         return self.__a[-1][1]
 

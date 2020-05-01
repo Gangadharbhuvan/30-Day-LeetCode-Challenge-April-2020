@@ -14,6 +14,7 @@
   12 + 02 + 02 = 1
   '''
   
+   
  class Solution:
     def isHappy(self, n: int) -> bool:
         def next_num(num):

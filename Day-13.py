@@ -30,3 +30,4 @@ class Solution:
 			if v[-1] - v[0] > res:
 				res = v[-1] - v[0]
 		return res
+ 

@@ -54,3 +54,4 @@ class Solution:
                 move_left -= amount
         move_left = move_left % length_of_string
         return s[move_left:] + s[:move_left]
+ 

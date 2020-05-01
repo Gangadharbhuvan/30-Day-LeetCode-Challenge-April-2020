@@ -18,7 +18,6 @@ sum(i,j)=sum(0,j)-sum(0,i), where sum(i,j) represents the sum of all the element
 
 '''
 
-
 from collections import defaultdict
 
 class Solution:

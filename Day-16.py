@@ -20,7 +20,6 @@ The string size will be in the range [1, 100].
 
 '''
 
-
 class Solution:
     def checkValidString(self, s: str) -> bool:
         # balance of left parenthesis and right parenthesis

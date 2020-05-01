@@ -19,7 +19,6 @@ Input:
 00011
 
 Output: 3
-
 '''
 
 class Solution:
